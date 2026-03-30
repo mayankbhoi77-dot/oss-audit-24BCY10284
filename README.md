@@ -8,7 +8,7 @@ Roll Number: 24BCY10284
 VLC Media Player
 
 ## About the Project
-In this project, I have created a set of shell scripts to perform basic system auditing tasks in Linux. The main idea is to understand how open-source tools work and how we can use simple scripts to analyze system information. VLC Media Player is taken as the reference software for this audit.
+In this project, I have created a set of shell scripts to perform basic system auditing tasks in Linux. It is to understand how open-source tools work and also how we can use simple scripts for analyzing system information. VLC Media Player is taken as the reference software.
 
 ## Description of Scripts
 
