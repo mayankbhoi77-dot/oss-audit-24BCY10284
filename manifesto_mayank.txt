@@ -1,1 +1,3 @@
-When it comes to getting things done, Python is my absolute go-to. To me, the real soul of open source is the simple power to do things freely, without being held back by closed doors or hidden costs. If I had the chance to give back even a fraction of what I've gained, I’d focus on building projects that I could release into the wild—sharing them with the world just as so many developers have done for me.
+When it comes to getting things done, Python is my absolute go-to. To me, the real soul of open source is the simple power to do things freely,
+without being held back by closed doors or hidden costs. If I had the chance to give back even a fraction of what I've gained,
+I’d focus on building projects that I could release into the wild—sharing them with the world just as so many developers have done for me.
